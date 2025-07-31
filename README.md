@@ -29,8 +29,7 @@
   pip install seaborn
   pip intall sickit-learn 
 ```
-```
-- copia y pega este codigo en tu terminal, o ejecuta celda por celda en tu jupyter o todo el script
+### copia y pega este codigo en tu terminal, o ejecuta celda por celda en tu jupyter o todo el script
 
 # **6. Posibles mejoras**
 
