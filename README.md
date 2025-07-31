@@ -23,7 +23,7 @@
 - **Random Forest:** Algoritmo potente para clasificacion 
 - **Procesamiento:** Escalado estandar de caracteristicas
 - **Evaluacion:** Reporte de clasificacion, precision, matriz de clasificacion. 
-# **5. como ejecutarlo**
+# **5. Como ejecutarlo**
 ### copia este codigo en un jupyter notebook o script py
 ### Asegurate de tener instaladas las librerias:
 ```bash
