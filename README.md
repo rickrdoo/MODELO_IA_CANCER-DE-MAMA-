@@ -1,5 +1,4 @@
-#                                      MODELO_IA_CANCER-DE-MAMA
-
+<h2 align="center">MODELO IA CÁNCER DE MAMA</h2>
 
 <p align="center">
  <img src="https://cdn-icons-gif.flaticon.com/15588/15588914.gif" alt="Visualización" width="300"/>
