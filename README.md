@@ -1,6 +1,7 @@
-# MODELO_IA_CANCER-DE-MAMA-
-# Explicacion del codigo:
+# MODELO_IA_CANCER-DE-MAMA
+<img src="https://media.istockphoto.com/id/1686043637/es/vector/d%C3%ADa-mundial-del-c%C3%A1ncer-de-mama.jpg?s=612x612&w=0&k=20&c=eVWTom0fc14ud-fdINDIjk6okbGruxERwHqwlB80dCA=" alt="Visualización" width="100"/>
 
+# Explicacion del codigo:
 * Librerias utilizadas en la codificacion
 
 1. numpy/panda: Manipulacion de datos.
