@@ -40,3 +40,5 @@
 - Analisis mas detallado de caracteristicas
 
 **Este codigo proporciona un flujo complejo de ML con visualizacion profesionales listas para presentciones o informes o informes.**
+
+<img src="https://cdn-icons-gif.flaticon.com/15588/15588914.gif" alt="Visualización" width="100"/>
