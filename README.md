@@ -1,1 +1,42 @@
 # MODELO_IA_CANCER-DE-MAMA-
+# Explicacion del codigo:
+
+* Librerias utilizadas en la codificacion
+
+1. numpy/panda: Manipulacion de datos.
+2. matplotilib/seaborn: Visualizacion. 
+3. sickit-learn: Machine learning binaria
+4. Dataset: usamos el dataset de cancer de mama de wisconsin
+* 30 caracteristicas numericas
+* variables objetivo binaria (0:maligno, 1; benigno)
+## Visualizaciones incluidas
+1. Distribucion de clases objetivo
+2. Histogramas de todas las caracteristicas 
+3. Matriz de correlacion entre caracteristicas
+4. Matriz de confusion del modelo
+5. Importancia de caracteristicas(Top 10)
+### Modelo de machine learning
+- **Random Forest:** Algoritmo potente para clasificacion 
+- **Procesamiento:** Escalado estandar de caracteristicas
+- **Evaluacion:** Reporte de clasificacion, precision, matriz de clasificacion. 
+# **5. como ejecutarlo**
+### copia este codigo en un jupyter notebook o script py
+### Asegurate de tener instaladas las librerias:
+```bash
+  pip install numpy 
+  pip installa pandas
+  pip intall matplotlib
+  pip install seaborn
+  pip intall sickit-learn 
+```
+```
+- copia y pega este codigo en tu terminal, o ejecuta celda por celda en tu jupyter o todo el script
+
+# **6. Posibles mejoras**
+
+- Ajuste hiperparametros con GridSearchCV
+- Validación cruzada
+- Prueba con otros algoritmos (SVM,XGBoost,etc.) 
+- Analisis mas detallado de caracteristicas
+
+**Este codigo proporciona un flujo complejo de ML con visualizacion profesionales listas para presentciones o informes o informes.**
