@@ -1,5 +1,8 @@
 #                                      MODELO_IA_CANCER-DE-MAMA
-<img src="https://cdn-icons-gif.flaticon.com/15588/15588914.gif" alt="Visualización" width="300"/>
+
+<p align="center">
+  <img src="[https://ruta-a-tu-imagen.gif](https://cdn-icons-gif.flaticon.com/15588/15588914.gif)" alt="Animación o imagen" width="400"/>
+</p>
 # Explicacion del codigo:
 * Librerias utilizadas en la codificacion
 
