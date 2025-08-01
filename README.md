@@ -1,7 +1,7 @@
 <h2 align="center">MODELO IA CÁNCER DE MAMA</h2>
 
 <p align="center">
- <img src="https://cdn-icons-gif.flaticon.com/15588/15588914.gif" alt="Visualización" width="300"/>
+ <img src="[https://cdn-icons-gif.flaticon.com/15588/15588914.gif](https://static-www.adweek.com/wp-content/uploads/2019/03/5g-page-reverse-2019.gif?w=1140)" alt="Visualización" width="300"/>
 </p>
 
 # Explicacion del codigo:
